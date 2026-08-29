@@ -27,6 +27,7 @@ const FILES_TO_UPDATE = [
   'packages/core/package.json',
   'packages/sources/package.json',
   'packages/types/package.json',
+  'packages/vault/package.json',
   'apps/extension/src/manifest.chrome.json',
   'apps/extension/src/manifest.firefox.json',
   'apps/extension/src/manifest.safari.json',
