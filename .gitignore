@@ -52,3 +52,6 @@ screenshots/
 # Misc
 *.local
 .cache/
+
+# Socket patch lock, recreated by the postinstall on every install
+.socket/
